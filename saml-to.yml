@@ -1,0 +1,7 @@
+---
+# Config Reference: 
+# https://docs.saml.to/configuration/reference
+version: '20220101'
+variables:
+providers:
+permissions:
